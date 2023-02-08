@@ -12,8 +12,8 @@ Running the project
 Clone the repository to your local machine using the following command:
 bash
 Copy code
+git clone https://github.com/rivkxx/lyric-generator
 
-git clone https://github.com/[your-username]/lyric-generator.git
 
 Open the index.html file in a web browser.
 
@@ -27,7 +27,5 @@ Contributing
 If you'd like to contribute to this project, please fork the repository and make your changes. Submit a pull request and we'll review your changes.
 
 Author
-[Your Name]
+github.com/rivkxx
 
-License
-This project is licensed under the [insert license name here] license.
